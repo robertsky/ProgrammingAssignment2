@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The following functions would allow retrieval of cached
+## calculations of matrix's inverse, if any. If there is no
+## cached calculation, the calculated inverse will be stored.
 
 ## makeCacheMatrix function - create a list of functions to set matrix and its inverse
 
